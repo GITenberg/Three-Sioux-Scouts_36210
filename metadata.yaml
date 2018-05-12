@@ -1,0 +1,25 @@
+_repo: Three-Sioux-Scouts_36210
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36210-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gregor, Elmer Russell
+    birthdate: 1878
+    gutenberg_agent_id: '37423'
+    url: http://www.gutenberg.org/2009/agents/37423
+description: ''
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dakota Indians -- Juvenile fiction'
+title: Three Sioux Scouts
+url: http://www.gutenberg.org/ebooks/36210
